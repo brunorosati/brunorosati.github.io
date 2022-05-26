@@ -33,7 +33,7 @@ h1{
     margin-bottom: 170px;
 }
 
-.b1{
+.botao{
     justify-content: center;
     align-items: center;
     display: flex;
@@ -47,14 +47,3 @@ h1{
     
 }
 
-.b2{
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    height: 30px;
-    width: 200px;
-    background-color: rgb(52, 67, 199); 
-    color: white;
-    border:rgb(52, 67, 199); 
-   
-}
